@@ -1,0 +1,1 @@
+This will be a landing page for the Huro app. It will be hosted in Go High Level CRM but this is where the raw code will sit. Everything will be coded according to custom code standards described in https://help.gohighlevel.com/support/solutions/articles/155000001633-websites-overview#Preview-Custom-Code. 
